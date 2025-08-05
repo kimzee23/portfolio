@@ -5,7 +5,7 @@ import { Icon } from '@chakra-ui/icons';
 import { keyframes } from '@emotion/react';
 import mw from '../assets/mw.png';
 
-// Glitch animation
+
 const glitch = keyframes`
   0% { text-shadow: 0.05em 0 0 #00fffc, -0.05em -0.025em 0 #fc00ff; }
   14% { text-shadow: 0.05em 0 0 #00fffc, -0.05em -0.025em 0 #fc00ff; }

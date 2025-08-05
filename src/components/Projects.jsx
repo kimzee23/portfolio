@@ -1,5 +1,6 @@
 import { Box, Image, Text, VStack, Heading, Link, HStack } from '@chakra-ui/react';
 import { keyframes } from '@emotion/react';
+import near from  '../assets/near.png'
 
 
 const glitch = keyframes`
@@ -36,6 +37,14 @@ const projects = [
         github: 'https://github.com/your-username/innerverse',
         demo: 'https://innerverse.app',
         tech: ['React', 'Three.js', 'Node.js']
+    },
+    {
+        title: 'Near by shop',
+        image: near,
+        description: 'Where you day Cloth,Food stuff,e.t.c.',
+        github: 'https://github.com/kimzee23/near-by-shop',
+        demo: 'https://nearbyshopit.netlify.app/',
+        tech: ['React', 'Three.js', 'Chakara UI']
     },
 ];
 
