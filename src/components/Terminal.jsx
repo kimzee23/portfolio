@@ -81,7 +81,7 @@ export default function Terminal() {
 
 
             <Box mb={4}>
-                <Text>1. about - Who is Kimzee?</Text>
+                <Text>1. about - Who is Kolajo?</Text>
                 <Text>2. projects - View my work</Text>
                 <Text>3. skills - My tech stack</Text>
                 <Text>4. contact - Get in touch</Text>

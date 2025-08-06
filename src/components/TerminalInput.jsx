@@ -2,7 +2,7 @@ import { Input, Box, Text } from '@chakra-ui/react';
 import { useState, useEffect, useRef } from 'react';
 import { keyframes } from '@emotion/react';
 
-// Blinking cursor animation
+
 const blink = keyframes`
   from, to { opacity: 0; }
   50% { opacity: 1; }

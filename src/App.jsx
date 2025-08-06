@@ -1,5 +1,5 @@
 import Terminal from './components/Terminal';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 
 export default function App() {
     return (
@@ -7,7 +7,7 @@ export default function App() {
             <main style={{ flex: 1 }}>
                 <Terminal />
             </main>
-            <Footer />
+            {/*<Footer />*/}
         </div>
     );
 }
